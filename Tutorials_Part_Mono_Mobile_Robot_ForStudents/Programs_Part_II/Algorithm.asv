@@ -1,0 +1,10 @@
+% Cognitive long-term  planning
+%1. Compute strait line from source to objective
+global straightLine = plot([Xreel, Yreel], [Xd, YD]);
+
+global PELC_list
+%2. Compute all PELC
+for i=1:size(Obstacle, 1)
+    
+
+end
